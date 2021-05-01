@@ -1,11 +1,15 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# About
+This project involves javascript experiments and three.js library to render audio and video within the browser window.
+
+# Courtesy
+Used Three.js Starter Pack by Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
 
-``` bash
+
+NODE JS COMMANDS
+
 # Install dependencies (only the first time)
 npm install
 
